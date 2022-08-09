@@ -4,8 +4,11 @@
 
 ## How to run application
 
-From the root directory of this project type `python3 madlib_cli/madlib.py` in the terminal/bash. Follow all on screen instructions to play the game.
+Go to these example urls in your browser
+
+https://capital-finder-ben-small.vercel.app/api/capital-finder?capital=Lima
+https://capital-finder-ben-small.vercel.app/api/capital-finder?country=Peru
 
 ## Tests
 
-Run `pytest tests/test_madlib.py` from the root directory of this project with pytest installed.
+Run the example urls (and any other countries or capitals) and see if it produces the expected output.
